@@ -7,8 +7,6 @@
     <title>Shazz's Resume</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      rel="stylesheet">
     <link rel="stylesheet" href="CSS/style.css">
 </head>
 <body>
@@ -26,7 +24,7 @@
         <!-- Sidebar -->
         <div class="sidebar" >
           <!-- Profile Image -->  
-        <img src="Images/VDay-mins.jpg" alt="Profile Image"
+        <img src="Images/VDay-min.jpg" alt="Profile Image"
           class="profile-img">
            
             <!-- Menu Section -->
@@ -121,6 +119,7 @@
                 <h3>References</h3>
                 <ul>
                     <li>New Line Manager Julio De Vos — 0718814768</li>
+                    <li>Old line Manager Rukieya Mohammed - +27 83 254 2882</li>
                     <li>Senior business planning manager: Phineas Thamaga - +27 83 792 8048</li>
                 </ul>
                     </div>
